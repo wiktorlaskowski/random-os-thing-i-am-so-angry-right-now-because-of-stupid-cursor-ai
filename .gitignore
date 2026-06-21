@@ -1,0 +1,2 @@
+# Generated PMOMS boot artifacts; run `make image` to build locally.
+build/
